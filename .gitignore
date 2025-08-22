@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.log
+
+# Environment
+.env
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+*.sqlite3
+*.db
+
+# Ignore data folder if not needed in repo
+# data/
